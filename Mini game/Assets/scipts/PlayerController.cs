@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-  public float;
+    public float speed = 10f;
 
 
     // Start is called before the first frame update
